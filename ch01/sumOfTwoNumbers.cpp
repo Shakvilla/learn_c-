@@ -7,7 +7,9 @@
 
 int main (){
 
-    int num1{0}, num2{0}, sum{0};
+    int num1{0};
+    int num2{0};
+    int sum{0};
    
 
     std::cout << "Enter first number: "; // asks the user for first input
