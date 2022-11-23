@@ -7,10 +7,10 @@ int main(){
 
     int total = 0;
     int gradeCounter = 1;
-    int grade; 
+   
 
     while(gradeCounter <= 10){
-
+        int grade;
         cout << "Enter grade: \n";
         cin >> grade;
         total = total + grade;
